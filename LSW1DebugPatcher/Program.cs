@@ -6,7 +6,7 @@ namespace LSW1DebugPatcher
     class Program
     {
         const string EXE_NAME = "LegoStarwars.exe";
-        const string DEFAULT_PATCH = ".\\en_US.patch";
+        const string DEFAULT_PATCH = ".\\en_UK.patch";
 
         static void Main(string[] args)
         {
