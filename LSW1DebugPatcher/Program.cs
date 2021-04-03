@@ -6,7 +6,7 @@ namespace LSW1DebugPatcher
     class Program
     {
         const string EXE_NAME = "LegoStarwars.exe";
-        const string DEFAULT_PATCH = ".\\en_UK.patch";
+        const string DEFAULT_PATCH = ".\\EU00.patch";
 
         static void Main(string[] args)
         {
@@ -25,7 +25,7 @@ namespace LSW1DebugPatcher
             {
                 patch = Patch.ParseFromFile(descPath);
             }
-            catch (FormatException ex)
+            catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
                 return;
