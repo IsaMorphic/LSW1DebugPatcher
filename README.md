@@ -19,7 +19,7 @@ Simply follow these steps and you'll be good to go:
 
 1. **Make sure** you have a **working copy** of *Lego Star Wars the Video Game* installed on your PC.  <u>*TAKE NOTE OF THE INSTALLATION DIRECTORY*</u>. **Only certain releases** of the game are compatible, so check [Compatibility](#compatibility) to **make sure your copy is supported**.  If it isn't, **[open an issue](https://github.com/yodadude2003/LSW1DebugPatcher/issues) on this repo.**  
 2. **Download and install** the **latest version of the [.NET 5.0 Runtime](https://dotnet.microsoft.com/download/dotnet/5.0#runtime-desktop-5.0.4)**, or SDK if you want to compile it yourself (See [Building](#building) for more info)
-3. **Download** the **latest release** of LSW1DebugPatcher (https://www.chosenfewsoftware.com/)
+3. **Download** the **latest release** of LSW1DebugPatcher (https://www.chosenfewsoftware.com/Apps/LSW1_Debug_Patcher)
 4. **Create a subdirectory** named `patcher` inside the **same directory** as `LegoStarwars.exe` (found in previously noted <u>*installation directory*</u>)
 5. **Extract all files** from the archive file you downloaded **into this new directory** (depending on whether your game is in `Program Files`, **you may need to run your archiver as administrator/root**)
 6. **Victory tastes sweet.**  Move on to the next section!
