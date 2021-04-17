@@ -42,7 +42,7 @@ Simply follow these steps and you'll be good to go:
 | UK (*Unknown)          | 09cd92f15b56960795e3fe0ec045ff4d2cd51f10dca6a7d1d24e7405eb5fba55 | EU00.patch |
 | PL (Cenega)            | 09cd92f15b56960795e3fe0ec045ff4d2cd51f10dca6a7d1d24e7405eb5fba55 | EU00.patch |
 
-Note: SHA256 column contains base64 encoded SHA256 hashes for each release's `LegoStarwars.exe`
+Note: SHA256 column contains hex encoded SHA256 hashes for each release's `LegoStarwars.exe`
 
 **probably also Giant Interactive*
 
