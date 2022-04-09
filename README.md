@@ -36,15 +36,13 @@ Simply follow these steps and you'll be good to go:
 
 ## Compatibility
 
-| Region (Publisher)     | SHA256                                                       | Patch File |
-| ---------------------- | ------------------------------------------------------------ | ---------- |
+| Region (Publisher)     | SHA256                                                           | Patch File |
+| ---------------------- | ---------------------------------------------------------------- | ---------- |
 | US (Giant Interactive) | 49f74d802596b72b8da24b76f98f249dfdb370d5607fa7e65e3a19beb833d473 | US.patch   |
-| UK (*Unknown)          | 09cd92f15b56960795e3fe0ec045ff4d2cd51f10dca6a7d1d24e7405eb5fba55 | EU00.patch |
+| UK (Giant Interactive) | 09cd92f15b56960795e3fe0ec045ff4d2cd51f10dca6a7d1d24e7405eb5fba55 | EU00.patch |
 | PL (Cenega)            | 09cd92f15b56960795e3fe0ec045ff4d2cd51f10dca6a7d1d24e7405eb5fba55 | EU00.patch |
 
 Note: SHA256 column contains hex encoded SHA256 hashes for each release's `LegoStarwars.exe`
-
-**probably also Giant Interactive*
 
 #### How to verify your release
 
